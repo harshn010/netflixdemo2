@@ -1,0 +1,33 @@
+.banner{
+   background-size: cover;
+  width: 100%;
+    height: 600px;
+   
+}
+.button{
+    width: 80px;
+    height: 30px;
+   padding: 10px 10px;
+  color: white  ;
+  margin-top: 250px;
+  margin-left: 20px;
+  background-color: transparent;
+  border-radius: 10px;
+}
+
+.button:hover {
+    background-color: white;
+    color: black;
+  }
+  .buttons{
+      display: flex;
+  }
+  .name{
+      color: azure;
+      margin-left:30px ;
+  }
+  .disc{
+      margin-left: 30px;
+      color: white;
+      font-style: italic;
+  }

@@ -1,0 +1,13 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.image{
+    position: fixed;
+    width: 150px;
+    height: 60px;
+    left: 10px;
+   
+}
